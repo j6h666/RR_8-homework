@@ -3,6 +3,7 @@ title: "RR_8 HW"
 author: "Jin Huang"
 format: html
 editor: visual
+date: 2024/04/19
 ---
 
 ## Genshin Impact
@@ -71,4 +72,4 @@ plt.legend()
 plt.show()
 ```
 
-We observe that three clusters are generated. Where the cluster with highest ranking is with centroid around 7, median ranking around 6 and low ranking around 4.
+We observe that three clusters are generated. Where the cluster with highest ranking (most popular characters) is with centroid around 7, median ranking around 6 (intermediate popular characters) and low ranking (low popular characters) around 4.
